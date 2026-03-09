@@ -13,5 +13,6 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/Haridharani-SP/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/Haridharani-SP/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 <!---LeetCode Topics End-->
