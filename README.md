@@ -32,4 +32,5 @@
 | [0511-game-play-analysis-i](https://github.com/Haridharani-SP/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Haridharani-SP/Leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Haridharani-SP/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0610-triangle-judgement](https://github.com/Haridharani-SP/Leetcode/tree/main/0610-triangle-judgement/) | Easy |
 <!---LeetCode Topics End-->
