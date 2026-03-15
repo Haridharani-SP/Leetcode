@@ -35,5 +35,6 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Haridharani-SP/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/Haridharani-SP/Leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/Haridharani-SP/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
+| [0626-exchange-seats](https://github.com/Haridharani-SP/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Haridharani-SP/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 <!---LeetCode Topics End-->
