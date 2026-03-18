@@ -11,11 +11,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Haridharani-SP/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0242-valid-anagram](https://github.com/Haridharani-SP/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Haridharani-SP/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/Haridharani-SP/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0242-valid-anagram](https://github.com/Haridharani-SP/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +39,8 @@
 | [0619-biggest-single-number](https://github.com/Haridharani-SP/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/Haridharani-SP/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Haridharani-SP/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Haridharani-SP/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
