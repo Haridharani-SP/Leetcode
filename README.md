@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Haridharani-SP/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Haridharani-SP/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Haridharani-SP/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0412-fizz-buzz](https://github.com/Haridharani-SP/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@
 | [0006-zigzag-conversion](https://github.com/Haridharani-SP/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/Haridharani-SP/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0242-valid-anagram](https://github.com/Haridharani-SP/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0412-fizz-buzz](https://github.com/Haridharani-SP/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +53,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Haridharani-SP/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/Haridharani-SP/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
