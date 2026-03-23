@@ -17,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Haridharani-SP/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/Haridharani-SP/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/Haridharani-SP/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0242-valid-anagram](https://github.com/Haridharani-SP/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/Haridharani-SP/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
