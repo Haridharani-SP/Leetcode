@@ -42,6 +42,7 @@
 | [0619-biggest-single-number](https://github.com/Haridharani-SP/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/Haridharani-SP/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Haridharani-SP/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1084-sales-analysis-iii](https://github.com/Haridharani-SP/Leetcode/tree/main/1084-sales-analysis-iii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
