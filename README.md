@@ -47,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Haridharani-SP/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0414-third-maximum-number](https://github.com/Haridharani-SP/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +61,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Haridharani-SP/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0414-third-maximum-number](https://github.com/Haridharani-SP/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 <!---LeetCode Topics End-->
