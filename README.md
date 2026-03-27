@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/Haridharani-SP/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Haridharani-SP/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0412-fizz-buzz](https://github.com/Haridharani-SP/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Haridharani-SP/Leetcode/tree/main/0415-add-strings/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@
 | [0012-integer-to-roman](https://github.com/Haridharani-SP/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0242-valid-anagram](https://github.com/Haridharani-SP/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/Haridharani-SP/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Haridharani-SP/Leetcode/tree/main/0415-add-strings/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Haridharani-SP/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Haridharani-SP/Leetcode/tree/main/0415-add-strings/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
